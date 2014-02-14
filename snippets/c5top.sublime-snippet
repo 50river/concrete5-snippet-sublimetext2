@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<?php defined('C5_EXECUTE') or die(_("Access Denied.")); ?>]]>
+	</content>
+	<tabTrigger>c5top</tabTrigger>
+	<description>concrete5でphpファイルの頭に書く魔法</description>
+</snippet>
