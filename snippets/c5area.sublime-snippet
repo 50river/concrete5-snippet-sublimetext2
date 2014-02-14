@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+		<![CDATA[<?php
+$a = new Area('${1:Area Name}');
+$a->display($c);
+?>]]>
+	</content>
+	<tabTrigger>c5area</tabTrigger>
+	<description>concrete5で挿入した部分が編集エリアになる魔法</description>
+</snippet>

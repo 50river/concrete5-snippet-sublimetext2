@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+		<![CDATA[<?php
+$a = new GlobalArea('${1:Global Area Name}');
+$a->display();
+?>]]>
+	</content>
+	<tabTrigger>c5garea</tabTrigger>
+	<description>concrete5で挿入した全ページで共通の編集エリアになる魔法</description>
+</snippet>

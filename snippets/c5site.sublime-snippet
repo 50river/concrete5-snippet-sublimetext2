@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<?php echo SITE?>]]>
+	</content>
+	<tabTrigger>c5site</tabTrigger>
+	<description>concrete5の定数SITEを使ってサイト名を呼び出す魔法</description>
+</snippet>
