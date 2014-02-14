@@ -12,7 +12,7 @@ https://github.com/50river/concrete5-snippet-sublimetext2.git
 
 c5top:phpファイルの頭に書く魔法  
 c5lan:lang属性をc5の設定に合わせる魔法  
-c5head:自動生成されたheader要素を入れる魔法(必須) 
+c5head:自動生成されたheader要素を入れる魔法(必須)   
 c5css:自分で用意したCSSファイルを読み込ませる魔法  
 c5js:自分で用意したjsファイルを読み込ませる魔法  
 c5area:挿入した部分が編集エリアになる魔法  
