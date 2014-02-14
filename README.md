@@ -3,7 +3,7 @@ concrete5-snippet-sublimetext2
 
 sublimetext2用のconcrete5ス二ペット
   
-パッケージコントローラをインストロールして  
+パッケージコントローラをインストールして  
 Package Control: Add Repositoryから  
   
 https://github.com/50river/concrete5-snippet-sublimetext2.git  
