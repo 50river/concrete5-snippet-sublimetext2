@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<html class="no-js" lang"<?php echo LANGUAGE??>">]]>
+	</content>
+	<tabTrigger>c5lan</tabTrigger>
+	<description>concrete5でlang属性をc5の設定に合わせる魔法</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<link rel="stylesheet" type="text/css" href="<?php echo $this->getThemePath(); ?>/{2:パス/}{1:ファイル名}.css">]]>
+	</content>
+	<tabTrigger>c5css</tabTrigger>
+	<description>concrete5で自動生成されたheader要素を入れる魔法(必須)</description>
+</snippet>

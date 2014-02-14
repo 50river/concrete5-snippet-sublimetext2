@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<?php Loader::element('header_required'); ?>]]>
+	</content>
+	<tabTrigger>c5head</tabTrigger>
+	<description>concrete5で自動生成されたheader要素を入れる魔法(必須)</description>
+</snippet>
