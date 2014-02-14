@@ -6,5 +6,5 @@ $a->display();
 ?>]]>
 	</content>
 	<tabTrigger>c5garea</tabTrigger>
-	<description>concrete5で挿入した全ページで共通の編集エリアになる魔法</description>
+	<description>concrete5で挿入した部分が全ページで共通の編集エリアになる魔法</description>
 </snippet>
