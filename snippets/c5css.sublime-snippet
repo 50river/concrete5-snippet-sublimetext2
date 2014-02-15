@@ -1,6 +1,6 @@
 <snippet>
 	<content>
-		<![CDATA[<link rel="stylesheet" type="text/css" href="<?php echo $this->getThemePath(); ?>/${1:Path/file_name}.css">]]>
+		<![CDATA[<link rel="stylesheet" type="text/css" href="<?php echo \$this->getThemePath(); ?>/${1:Path/file_name}.css">]]>
 	</content>
 	<tabTrigger>c5css</tabTrigger>
 	<description>concrete5で自分で用意したCSSファイルを読み込ませる魔法</description>
