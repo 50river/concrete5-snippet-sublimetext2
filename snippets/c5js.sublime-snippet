@@ -1,6 +1,6 @@
 <snippet>
 	<content>
-		<![CDATA[<script src="<?php echo $this->getThemePath(); ?>/${1:Path/file_name}.js"></script>]]>
+		<![CDATA[<script src="<?php echo \$this->getThemePath(); ?>/${1:Path/file_name}.js"></script>]]>
 	</content>
 	<tabTrigger>c5js</tabTrigger>
 	<description>concrete5で自分で用意したjsファイルを読み込ませる魔法</description>

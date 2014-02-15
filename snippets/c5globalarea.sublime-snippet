@@ -1,8 +1,8 @@
 <snippet>
 	<content>
 		<![CDATA[<?php
-$a = new GlobalArea('${1:Global Area Name}');
-$a->display();
+\$a = new GlobalArea('${1:Global Area Name}');
+\$a->display();
 ?>]]>
 	</content>
 	<tabTrigger>c5garea</tabTrigger>
