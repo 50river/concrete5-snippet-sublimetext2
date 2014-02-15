@@ -1,6 +1,6 @@
 <snippet>
 	<content>
-		<![CDATA[<?php echo $this->getThemePath(); ?>/]]>
+		<![CDATA[<?php echo \$this->getThemePath(); ?>/]]>
 	</content>
 	<tabTrigger>c5path</tabTrigger>
 	<description>concrete5でPath取ってくる魔法</description>
